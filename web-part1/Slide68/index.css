@@ -1,0 +1,16 @@
+button{
+  background-color:#00FF00;
+  color:#FF0000;
+  /* change the font size to 30pt */
+  font-size:30pt;
+  margin:10px;
+  /* add a border radius of 10px */
+  border-radius: 10px
+}
+#danger-btn{
+/* change the background color to magenta */
+  background-color:#FF00FF;
+}
+.green-bg{
+  background-color:#000000;
+}
